@@ -15,7 +15,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 1. Ouvrir Eclipse et créer un **nouveau projet Maven** en sélectionnant l'archetype `maven-archetype-quickstart`.
 2. Nommer le projet, par exemple : **SpringDIProject**.
 
-https://github.com/user-attachments/assets/18be8157-1db2-4e75-ac05-23b1af859339
+
 
 
    - **Group Id** : `com.example`
